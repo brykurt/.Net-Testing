@@ -1,0 +1,17 @@
+C:\Users\jpetilla\source\repos\BankAccount\UnitTest1\obj\Debug\UnitTest1.csprojAssemblyReference.cache
+C:\Users\bsegunto\Desktop\BankAccount\UnitTest1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\bsegunto\Desktop\BankAccount\UnitTest1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\bsegunto\Desktop\BankAccount\UnitTest1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\bsegunto\Desktop\BankAccount\UnitTest1\bin\Debug\UnitTest1.dll
+C:\Users\bsegunto\Desktop\BankAccount\UnitTest1\bin\Debug\UnitTest1.pdb
+C:\Users\bsegunto\Desktop\BankAccount\UnitTest1\bin\Debug\BankAccount.exe
+C:\Users\bsegunto\Desktop\BankAccount\UnitTest1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\bsegunto\Desktop\BankAccount\UnitTest1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\bsegunto\Desktop\BankAccount\UnitTest1\bin\Debug\BankAccount.pdb
+C:\Users\bsegunto\Desktop\BankAccount\UnitTest1\bin\Debug\BankAccount.exe.config
+C:\Users\bsegunto\Desktop\BankAccount\UnitTest1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\bsegunto\Desktop\BankAccount\UnitTest1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\bsegunto\Desktop\BankAccount\UnitTest1\obj\Debug\UnitTest1.csprojAssemblyReference.cache
+C:\Users\bsegunto\Desktop\BankAccount\UnitTest1\obj\Debug\UnitTest1.csproj.CopyComplete
+C:\Users\bsegunto\Desktop\BankAccount\UnitTest1\obj\Debug\UnitTest1.dll
+C:\Users\bsegunto\Desktop\BankAccount\UnitTest1\obj\Debug\UnitTest1.pdb

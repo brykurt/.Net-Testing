@@ -1,0 +1,11 @@
+C:\Users\jpetilla\source\repos\BankAccount\BankAccount\bin\Debug\BankAccount.exe.config
+C:\Users\jpetilla\source\repos\BankAccount\BankAccount\bin\Debug\BankAccount.exe
+C:\Users\jpetilla\source\repos\BankAccount\BankAccount\bin\Debug\BankAccount.pdb
+C:\Users\jpetilla\source\repos\BankAccount\BankAccount\obj\Debug\BankAccount.csprojAssemblyReference.cache
+C:\Users\jpetilla\source\repos\BankAccount\BankAccount\obj\Debug\BankAccount.exe
+C:\Users\jpetilla\source\repos\BankAccount\BankAccount\obj\Debug\BankAccount.pdb
+C:\Users\bsegunto\Desktop\BankAccount\BankAccount\bin\Debug\BankAccount.exe.config
+C:\Users\bsegunto\Desktop\BankAccount\BankAccount\bin\Debug\BankAccount.exe
+C:\Users\bsegunto\Desktop\BankAccount\BankAccount\bin\Debug\BankAccount.pdb
+C:\Users\bsegunto\Desktop\BankAccount\BankAccount\obj\Debug\BankAccount.exe
+C:\Users\bsegunto\Desktop\BankAccount\BankAccount\obj\Debug\BankAccount.pdb
